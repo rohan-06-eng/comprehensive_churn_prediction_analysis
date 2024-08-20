@@ -91,5 +91,5 @@ The **Comprehensive Churn Prediction and Analysis** project leverages data analy
 
 The **Comprehensive Churn Prediction and Analysis** project provides a robust framework for understanding and mitigating customer churn. By integrating data analytics and machine learning, the project offers valuable insights into customer behavior and churn patterns. The results can help businesses develop targeted strategies to enhance customer retention and optimize their marketing efforts.
 
-For more details, please refer to the [repository](link-to-repository) or contact [your-contact-info].
+For more details, please refer to the [repository](link-to-repository).
 
