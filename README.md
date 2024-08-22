@@ -1,7 +1,7 @@
 # Comprehensive Churn Prediction and Analysis
 
 ### Video Walkthrough
-https://drive.google.com/file/d/1i7vWex34axM7pwe4On9zGyUQVQ5pCjla/view?usp=sharing
+https://drive.google.com/file/d/1RQIlN9JeVP0WYvfK9LwM5AN-xbLweE1L/view?usp=sharing
 
 ## Description
 
